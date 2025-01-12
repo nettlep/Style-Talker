@@ -3,6 +3,10 @@ An official implementation of Style-Talker for Spoken Dialogue Generation
 
 ## Prerequisites
 
+1. Clone StyleTTS 2 (https://github.com/yl4579/StyleTTS2).
+
+2. Install necessary packages:
+
 ```
 conda create --name StyleTalker python=3.9
 conda activate StyleTalker
