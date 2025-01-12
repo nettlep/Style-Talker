@@ -3,7 +3,7 @@ An official implementation of Style-Talker for Spoken Dialogue Generation
 
 ## Prerequisites
 
-1. Clone StyleTTS 2 (https://github.com/yl4579/StyleTTS2).
+1. Clone [StyleTTS 2](https://github.com/yl4579/StyleTTS2).
 
 2. Install necessary packages:
 
@@ -30,6 +30,14 @@ The number of previous rounds (context) is restricted by the GPU memory and the 
 (Files pushed)
 
 ## Checkpoints
+
+We have trained (finetuned) Style-Talker on [DailyTalk](https://arxiv.org/abs/2207.01063) dataset.
+
+The checkpoints (Qwen-Audio and StyleTTS 2) can be downloaded from [Google drive](https://drive.google.com/drive/folders/1SBYqzyPdYhdw2YnEBsVtQzBnNRAYHkML?usp=sharing).
+
+Please update QWENAUDIO_CKPT_ROOT and STYLETTS2_CKPT_ROOT to where you store these checkpoints 
+
+and STYLETTS2_CODE_ROOT to where StyleTTS 2's repository was cloned, in run_style_talker.ipynb.
 
 
 ## Citation
