@@ -15,9 +15,7 @@ Most requirements are copied from StyleTTS 2 and Qwen-Audio.
 
 Please check **run_style_talker.ipynb**.
 
-The current model checkpoint takes the previous three rounds of conversation and generates the follow-up speaker,
-
-i.e., the model takes SpkA->SpkB->SpkA and generates ->SpkB.
+The current model checkpoint takes the previous three rounds of conversation and generates the follow-up speaker, i.e., the model takes SpkA->SpkB->SpkA and generates ->SpkB.
 
 The last SpkA is passed in as raw speech waveform, and the previous context is pre-transcribed (by another processs).
 
