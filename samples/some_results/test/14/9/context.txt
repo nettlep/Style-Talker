@@ -1,0 +1,2 @@
+spk_0: STYLE: <|extra_123|> TEXT: 'I live in the Holiday Inn Lido Hotel.'
+spk_1: STYLE: <|extra_123|> TEXT: 'Oh, it's not very far. And as far as I know it is a fancy place.'

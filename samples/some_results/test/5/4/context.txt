@@ -1,0 +1,2 @@
+spk_1: STYLE: <|extra_123|> TEXT: 'Certainly. Let me see. Oh, it's on that shelf.'
+spk_0: STYLE: <|extra_123|> TEXT: 'Uh, it's too high. I can't reach it. Could you help me?'

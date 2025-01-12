@@ -1,0 +1,7 @@
+Audio 1:<audio>/engram/naplab/projects/StyleTalker/dailytalk_16k/test/15/16k_4_0_d15.wav</audio>
+This is the voice of the spk_0 last speaking. There is a conversation among spk_0: STYLE: <|extra_123|> spk_1: STYLE: <|extra_123|>. Here is some context: 
+
+spk_0: STYLE: <|extra_123|> TEXT: 'Yes. We should plant more trees and grass to stop the sand from spreading.'
+spk_1: STYLE: <|extra_123|> TEXT: 'It may take many years for the trees to grow. I hope people will stop cutting down trees.'
+
+Try to recognize what spk_0 just said from the audio, and generate the style and text of the next speaker spk_1. Be creative and avoid repeated words and sentences. STYLE: <|extra_124|> TEXT: 

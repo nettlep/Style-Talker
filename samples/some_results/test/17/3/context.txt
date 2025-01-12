@@ -1,0 +1,2 @@
+spk_1: STYLE: <|extra_123|> TEXT: 'Seattle restaurant. Is there anything I can do for you?'
+spk_0: STYLE: <|extra_123|> TEXT: 'I would like to book a table for five at seven tonight.'

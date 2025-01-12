@@ -1,0 +1,2 @@
+spk_0: STYLE: <|extra_123|> TEXT: 'Yes. We should plant more trees and grass to stop the sand from spreading.'
+spk_1: STYLE: <|extra_123|> TEXT: 'It may take many years for the trees to grow. I hope people will stop cutting down trees.'

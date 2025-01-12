@@ -1,0 +1,2 @@
+spk_0: STYLE: <|extra_123|> TEXT: 'Why?'
+spk_1: STYLE: <|extra_123|> TEXT: 'I have a lot of work to do in the company recently.'

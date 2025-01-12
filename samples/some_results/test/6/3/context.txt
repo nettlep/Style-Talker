@@ -1,0 +1,2 @@
+spk_0: STYLE: <|extra_123|> TEXT: 'Hi, this is Quipu Corporation. Is that Miss Zhang?'
+spk_1: STYLE: <|extra_123|> TEXT: 'Yes speaking. Umm, is there anything I can do for you?'

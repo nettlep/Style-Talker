@@ -1,0 +1,2 @@
+spk_1: STYLE: <|extra_123|> TEXT: 'Oh, it's for my brother. The little boy over there. He is getting a carsickness.'
+spk_0: STYLE: <|extra_123|> TEXT: 'Poor boy! But don't worry. Here are two pills made in Germany. It's really effective. He will be just fine.'

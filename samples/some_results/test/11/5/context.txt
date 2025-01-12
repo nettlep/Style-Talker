@@ -1,0 +1,2 @@
+spk_1: STYLE: <|extra_123|> TEXT: 'Why so late? Didn’t she want to get married this October?'
+spk_0: STYLE: <|extra_123|> TEXT: 'Yeah, I did. But my fiancee has an important project.'

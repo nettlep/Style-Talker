@@ -1,0 +1,2 @@
+spk_1: STYLE: <|extra_123|> TEXT: 'Are you still mad about your nose? How is it?'
+spk_0: STYLE: <|extra_123|> TEXT: 'I'm serious, Zina. Back off. I have a bottle of pepper spray in my pocket.'

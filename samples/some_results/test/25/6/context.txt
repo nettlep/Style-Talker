@@ -1,0 +1,2 @@
+spk_1: STYLE: <|extra_123|> TEXT: 'The only way you're eating tonight is if you cook.'
+spk_0: STYLE: <|extra_123|> TEXT: 'I'm not sure what to cook for dinner.'

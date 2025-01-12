@@ -1,0 +1,2 @@
+spk_1: STYLE: <|extra_123|> TEXT: 'How much is this?'
+spk_0: STYLE: <|extra_123|> TEXT: 'You mean the large one or the small one?'

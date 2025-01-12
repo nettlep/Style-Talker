@@ -1,0 +1,2 @@
+spk_0: STYLE: <|extra_123|> TEXT: 'OK, try this one. It's made of aluminum.'
+spk_1: STYLE: <|extra_123|> TEXT: 'Oh, yes! This is much better. But it has an aluminum handle.'

@@ -1,0 +1,2 @@
+spk_1: STYLE: <|extra_123|> TEXT: 'Then when will I get a reply at the latest?'
+spk_0: STYLE: <|extra_123|> TEXT: 'Umm if you pass the interview, the personnel department will inform you within two weeks.'

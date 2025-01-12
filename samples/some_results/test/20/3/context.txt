@@ -1,0 +1,2 @@
+spk_0: STYLE: <|extra_123|> TEXT: 'Are you ready for a second?'
+spk_1: STYLE: <|extra_123|> TEXT: 'No, I'm afraid we'll have to cancel the order. I'm not sure whether it agrees with me.'

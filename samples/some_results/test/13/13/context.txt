@@ -1,0 +1,2 @@
+spk_1: STYLE: <|extra_123|> TEXT: 'How long has she lived there?'
+spk_0: STYLE: <|extra_123|> TEXT: 'I think she's lived there for about ten years.'

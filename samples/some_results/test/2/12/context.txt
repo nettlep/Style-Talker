@@ -1,0 +1,2 @@
+spk_1: STYLE: <|extra_123|> TEXT: 'From code five one three four three two six seven four eight.'
+spk_0: STYLE: <|extra_123|> TEXT: 'And the number in Japan, please?'

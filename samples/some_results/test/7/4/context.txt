@@ -1,0 +1,2 @@
+spk_1: STYLE: <|extra_123|> TEXT: 'This is Mrs. White speaking.'
+spk_0: STYLE: <|extra_123|> TEXT: 'Hi. I understand that you have a house for sale, haven’t you?'

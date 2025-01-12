@@ -1,0 +1,2 @@
+spk_1: STYLE: <|extra_123|> TEXT: 'Where should I sit?'
+spk_0: STYLE: <|extra_123|> TEXT: 'Why don't you sit in the back with me?'

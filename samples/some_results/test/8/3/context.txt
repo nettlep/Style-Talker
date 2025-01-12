@@ -1,0 +1,2 @@
+spk_0: STYLE: <|extra_123|> TEXT: 'Can I help you?'
+spk_1: STYLE: <|extra_123|> TEXT: 'Eh, I am looking for a porter, do you know where I can find one?'

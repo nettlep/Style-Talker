@@ -1,0 +1,35 @@
+torch==2.0.1 --index-url https://download.pytorch.org/whl/cu118
+torchaudio==2.0.2 --index-url https://download.pytorch.org/whl/cu118
+torchvision==0.15.2 --index-url https://download.pytorch.org/whl/cu118
+
+numpy
+soundfile
+jupyterlab
+
+# More for StyleTTS 2
+munch
+pydub
+pyyaml
+librosa
+nltk
+matplotlib
+accelerate
+transformers==4.38.2
+einops
+einops-exts
+tqdm
+typing
+phonemizer
+typing-extensions
+git+https://github.com/resemble-ai/monotonic_align.git
+
+# More for Qwen-Audio
+tiktoken==0.6.0
+transformers_stream_generator==0.0.5
+scipy
+pillow
+
+# Training
+peft
+wandb
+speechbrain

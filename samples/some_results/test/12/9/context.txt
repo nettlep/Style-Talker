@@ -1,0 +1,2 @@
+spk_1: STYLE: <|extra_123|> TEXT: 'The dog bit the delivery boy.'
+spk_0: STYLE: <|extra_123|> TEXT: 'What a pity!'

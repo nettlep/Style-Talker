@@ -1,0 +1,2 @@
+spk_0: STYLE: <|extra_123|> TEXT: 'How do you protect yourself from chapped lips?'
+spk_1: STYLE: <|extra_123|> TEXT: 'I suggest you use lipstick, which also accentuates your lips.'

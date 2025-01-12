@@ -1,0 +1,2 @@
+spk_0: STYLE: <|extra_123|> TEXT: 'I'm getting dressed, what does it look like?'
+spk_1: STYLE: <|extra_123|> TEXT: 'It looks like you are about to get dressed. Did you forget we are in a car on the road?'
