@@ -21,7 +21,7 @@ Please check **run_style_talker.ipynb**.
 
 The current model checkpoint takes the previous three rounds of conversation and generates the follow-up speaker, i.e., the model takes SpkA->SpkB->SpkA and generates ->SpkB.
 
-The last SpkA is passed in as raw speech waveform, and the previous context is pre-transcribed (by another processs).
+The last SpkA is passed in as raw speech waveform, and the previous context is pre-transcribed.
 
 The number of previous rounds (context) is restricted by the GPU memory and the data and could be extended.
 
