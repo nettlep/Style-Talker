@@ -23,7 +23,7 @@ The current model checkpoint takes the previous three rounds of conversation and
 
 The last SpkA is passed in as raw speech waveform, and the previous context is pre-transcribed.
 
-The number of previous rounds (context) is restricted by the GPU memory and the data and could be extended.
+The number of previous rounds (context) is restricted by the GPU memory and the data, and could be extended.
 
 ## Training (TODO)
 
