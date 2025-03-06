@@ -16,7 +16,8 @@ def save_lora(lora_model, path):
     torch.save(peft_state_dict, path)
 
 def load_lora(lora_model, path):
-    peft_state_dict = torch.load(path)
+    device='cuda' if torch.cuda.is_available() else 'cpu'
+    peft_state_dict = torch.load(path, map_location=torch.device(device))
     result = set_peft_model_state_dict(lora_model, peft_state_dict)
     print(f'LoRA Loaded from {path}.')
 

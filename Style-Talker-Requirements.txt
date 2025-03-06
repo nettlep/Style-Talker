@@ -1,0 +1,14 @@
+pip install numpy==1.26.4
+pip install peft==0.10.0
+pip install IProgress
+pip install ipywidgets
+pip install IProgress
+
+$ python3
+    >>> import nltk
+    >>> nltk.download('punkt_tab')
+
+brew install espeak
+
+conda install pytorch torchvision torchaudio
+conda install pytorch torchvision torchaudio -c pytorch

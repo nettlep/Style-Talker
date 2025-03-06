@@ -89,12 +89,14 @@ class StyleQwen(nn.Module):
             load_lora(style_qwen.qwen, os.path.join(ckpt_root, 'lora.pt'))
             style_qwen.style_in_project.load_state_dict(
                 torch.load(
-                    os.path.join(ckpt_root, 'style_in_project.pt')
+                    os.path.join(ckpt_root, 'style_in_project.pt'),
+                    map_location=torch.device(device)
                 )
             )
             style_qwen.style_out_project.load_state_dict(
                 torch.load(
-                    os.path.join(ckpt_root, 'style_out_project.pt')
+                    os.path.join(ckpt_root, 'style_out_project.pt'),
+                    map_location=torch.device(device)
                 )   
             )
         

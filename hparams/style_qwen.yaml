@@ -57,7 +57,7 @@ lora_config: !new:peft.LoraConfig
 
 qwen: !apply:transformers.AutoModelForCausalLM.from_pretrained
     pretrained_model_name_or_path: Qwen/Qwen-Audio-Chat
-    device_map: cuda
+    device_map: cpu
     bf16: !ref <bf16>
     trust_remote_code: true
 
