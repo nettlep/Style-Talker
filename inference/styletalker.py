@@ -102,6 +102,7 @@ class StyleTalker(nn.Module):
         reference_styles: Optional[List[torch.Tensor]] = None,
         speaker_identity: torch.Tensor = None,
         first_spk_id: Optional[int] = 1,
+        override_text: str = None,   # pnettle
     ): 
         '''
         One of (history_texts, history_styles) or history_speeches must be given
@@ -204,6 +205,9 @@ class StyleTalker(nn.Module):
             else:
                 est_text, est_prosody = self.audiollm(inputs)
 
+            # pnettle
+            if override_text != None:
+                est_text = override_text
 
             # gt_style = torch.load('samples/dailytalk/1/r6.pt').unsqueeze(0).cuda()        
 
